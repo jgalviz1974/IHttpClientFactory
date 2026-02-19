@@ -1,2 +1,2 @@
 # IHttpClientFactory
-IHttpClientFactoryIHttpClientFactory es una biblioteca que facilita la creación de clientes HTTP, permitiendo una integración sencilla y eficiente con servicios web RESTful.
+IHttpClientFactory is a library that facilitates the creation of HTTP clients, allowing for simple and efficient integration with RESTful web services.
