@@ -12,7 +12,9 @@
     <Copyright>Gasolutions®</Copyright>
     <PackageReadmeFile>readme.md</PackageReadmeFile>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+    <RepositoryUrl>https://github.com/jgalviz1974/IHttpClientFactory</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<AssemblyVersion>1.0.8.2</AssemblyVersion>
     <Version>$(AssemblyVersion)</Version>
