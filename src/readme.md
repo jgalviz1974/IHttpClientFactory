@@ -1,0 +1,2 @@
+﻿About
+Gasolutions Core Interface Refit Http Client es una biblioteca que facilita la creación de clientes HTTP utilizando la biblioteca Refit, permitiendo una integración sencilla y eficiente con servicios web RESTful.
